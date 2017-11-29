@@ -1,4 +1,5 @@
-Person{
-  public main (String args);{
-  System.out.println"coba";
+public class Person{
+  Private Address address;
+    int age;
+    String nama;
 }
