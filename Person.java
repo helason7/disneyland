@@ -1,5 +1,5 @@
 public class Person{
-   Private address address;
+  Private Address address;
   int age;
   String nama;
  }
